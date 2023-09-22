@@ -1,0 +1,6 @@
+84
+On url -> https://www.daft.ie/property-for-rent/dublin/houses?numBeds_to=3&numBeds_from=3&pageSize=20&from=20
+On url -> https://www.daft.ie/property-for-rent/dublin/houses?numBeds_to=3&numBeds_from=3&pageSize=20&from=40
+On url -> https://www.daft.ie/property-for-rent/dublin/houses?numBeds_to=3&numBeds_from=3&pageSize=20&from=60
+On url -> https://www.daft.ie/property-for-rent/dublin/houses?numBeds_to=3&numBeds_from=3&pageSize=20&from=80
+84
