@@ -2,8 +2,7 @@ import requests
 import json
 import pandas as pd
 
-url = 'https://api.myhome.ie/search'  # Replace with the actual API endpoint URL
-
+url = 'https://api.myhome.ie/search' 
 results = []
 
 def saveJson(data, filename):
