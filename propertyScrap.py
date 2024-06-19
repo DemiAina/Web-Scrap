@@ -2,8 +2,6 @@ import httpx
 from selectolax.parser import HTMLParser
 from dataclasses import dataclass, asdict
 
-
-
 url = 'https://www.property.ie/property-to-let/dublin/price_international_rental-onceoff_standard/beds_3'
 
 @dataclass
