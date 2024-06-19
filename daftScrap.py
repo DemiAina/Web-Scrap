@@ -4,7 +4,7 @@ import json
 from selectolax.parser import HTMLParser
 import pandas as pd
 
-url = 'https://www.daft.ie/property-for-rent/dublin/houses?numBeds_to=3&numBeds_from=3&pageSize=20&from=0'  # Replace with the actual API endpoint URL
+url = 'https://www.daft.ie/property-for-rent/dublin/houses?numBeds_to=3&numBeds_from=3&pageSize=20&from=0' 
 
 results = []
 
